@@ -6,7 +6,12 @@ The objective of this assignment is to introduce you to the cost management and 
 ### *Azure* 
 #### _**Dashboard**_
 What tools and report are available
-Where would you monitor costs and set budgets or alerts 
+  Change scope - allows you to manage control access to one or more resources 
+  Control access - provides you with all end users information  such as role, scope, and type of user
+  Reporting and analytics - provides cost analysis to provide valuable insight and control spending patterns 
+
+Where would you monitor costs and set budgets or alerts
+
 #### _**Hypothetical Budgeting**_
 Available options for forecasting future cost based on budget 
 Cost saving recommendations provided by Azure Advisors
