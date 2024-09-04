@@ -11,6 +11,7 @@ What tools and report are available
   Reporting and analytics - provides cost analysis to provide valuable insight and control spending patterns 
 
 Where would you monitor costs and set budgets or alerts
+![Azure cost man](https://github.com/user-attachments/assets/504ea756-897c-4643-81ea-61e218cae149)
 
 #### _**Hypothetical Budgeting**_
 Available options for forecasting future cost based on budget 
