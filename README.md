@@ -63,6 +63,7 @@ They breakdown cost in 3 ways
 At the bottom of the breakdown window you will also be able to capture these 3 factors onto a csv file that will report cost breakdown , effective rate, and their amounts 
 
 __Investigate “recommendation” section and understand potential cost saving suggested__
+
 Under Google Clouds Platforms "*Active Assist*" tool is a reccomendations hub that has a variety of different areas to help you improve in cost , performance, security , reliability, management, and sustainability. 
 In this instance we will discuss just cost reccomendations, it talks about deleting inused or idling resources, possibly downsizing VM based on workload needs. They have a new reccomendation and open recomendation lists. Then they also based on those recommendations give you a projected or potential monthly saving by deleiting , downsizing ,or rethinking different resources and VM's.
 
